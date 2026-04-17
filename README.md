@@ -128,6 +128,21 @@ flutter run
 
 ---
 
+## 📌 Project Information
+
+This project was developed as part of a **group academic coursework**.
+
+This repository is published and maintained by me for learning and portfolio purposes.
+
+---
+
+## 👥 Contributors
+
+* Md.Sazzad Hossin
+* Goutom Roy
+* Auysh Das
+
+
 ## 📄 License
 
 This project is for academic and educational use.
