@@ -83,7 +83,7 @@ lib/
 
 ```bash
 # Clone the repository
-git clone https://github.com/GoutomRoy64/FishFresh-Scanner.git
+git clone https://github.com/SazzadHossin/fishfresh-scanner
 
 # Navigate to project
 cd fishfresh_scanner
